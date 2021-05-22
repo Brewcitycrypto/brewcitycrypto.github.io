@@ -1,4 +1,4 @@
-(/STI_Token_logo.jpeg)
+!(/STI_Token_logo.jpeg)
 
 
 # Welcome to the Sound Tattoo INK Project (STI)
