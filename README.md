@@ -1,3 +1,6 @@
+(/images/STI_Token_logo.jpeg)
+
+
 # Welcome to the Sound Tattoo INK Project (STI)
 ## *Find an artist that fits your needs*
 
